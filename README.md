@@ -20,7 +20,7 @@ You can download [Here](https://drive.google.com/file/d/183VAD_wuVtwkyvfaBoguUHZ
 
 **Real-world Data**\
 We utilized the real-world data provided by [FK](https://github.com/computational-imaging/nlos-fk) and [NLOST](https://github.com/Depth2World/NLOST).\
-Or you can download the preprocessed data [Here](https://drive.google.com/file/d/1j5bq_JcR68yDuvRUz57yGigJM0JUawMn/view?usp=sharing).
+Or you can download the preprocessed data [Here](https://drive.google.com/file/d/1MW4cnsEbHoAAicW-8j4I4STrpE7-bF2O/view?usp=sharing).
 
 ### Experiment
 We first train the network on **Synthetic Data**, and then directly test on **Real-world Data**.
